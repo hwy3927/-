@@ -1,0 +1,7 @@
+{
+  "name": "LuxeHand: Gesture Gallery",
+  "description": "A minimalist luxury 3D photo gallery controlled by hand gestures using MediaPipe and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
